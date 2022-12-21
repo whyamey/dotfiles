@@ -1,0 +1,4 @@
+# Hi
+
+This repo contains my dotfiles. Feel free to take whatever you may need from here.
+I am personally using a lot of stuff from others as well for these dotfiles.
